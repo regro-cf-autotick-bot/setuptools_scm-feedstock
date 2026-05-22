@@ -1,13 +1,13 @@
-About setuptools_scm-feedstock
+About setuptools-scm-feedstock
 ==============================
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/setuptools_scm-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/pypa/setuptools_scm/
+Home: https://pypi.org/project/setuptools-scm/
 
 Package license: MIT
 
-Summary: The blessed package to manage your versions by scm tags
+Summary: the blessed package to manage your versions by scm tags
 
 Current build status
 ====================
@@ -29,10 +29,10 @@ Current release info
 | [![Conda Recipe](https://img.shields.io/badge/recipe-setuptools--scm-green.svg)](https://anaconda.org/conda-forge/setuptools-scm) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/setuptools-scm.svg)](https://anaconda.org/conda-forge/setuptools-scm) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/setuptools-scm.svg)](https://anaconda.org/conda-forge/setuptools-scm) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/setuptools-scm.svg)](https://anaconda.org/conda-forge/setuptools-scm) |
 | [![Conda Recipe](https://img.shields.io/badge/recipe-setuptools__scm-green.svg)](https://anaconda.org/conda-forge/setuptools_scm) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/setuptools_scm.svg)](https://anaconda.org/conda-forge/setuptools_scm) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/setuptools_scm.svg)](https://anaconda.org/conda-forge/setuptools_scm) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/setuptools_scm.svg)](https://anaconda.org/conda-forge/setuptools_scm) |
 
-Installing setuptools_scm
+Installing setuptools-scm
 =========================
 
-Installing `setuptools_scm` from the `conda-forge` channel can be achieved by adding `conda-forge` to your channels with:
+Installing `setuptools-scm` from the `conda-forge` channel can be achieved by adding `conda-forge` to your channels with:
 
 ```
 conda config --add channels conda-forge
@@ -118,17 +118,17 @@ Terminology
                   produce the finished article (built conda distributions)
 
 
-Updating setuptools_scm-feedstock
+Updating setuptools-scm-feedstock
 =================================
 
-If you would like to improve the setuptools_scm recipe or build a new
+If you would like to improve the setuptools-scm recipe or build a new
 package version, please fork this repository and submit a PR. Upon submission,
 your changes will be run on the appropriate platforms to give the reviewer an
 opportunity to confirm that the changes result in a successful build. Once
 merged, the recipe will be re-built and uploaded automatically to the
 `conda-forge` channel, whereupon the built conda packages will be available for
 everybody to install and use from the `conda-forge` channel.
-Note that all branches in the conda-forge/setuptools_scm-feedstock are
+Note that all branches in the conda-forge/setuptools-scm-feedstock are
 immediately built and any created packages are uploaded, so PRs should be based
 on branches in forks, and branches in the main repository should only be used to
 build distinct package versions.
